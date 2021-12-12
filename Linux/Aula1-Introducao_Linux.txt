@@ -1,0 +1,5 @@
+Na primeira aula o que mais me chamou a atenção foi descobrir que o linux não é
+um sistema operacional, mas sim o kernel (núcleo) do sistema operacional,
+por exemplo do Ubuntu.
+Outra coisa que eu também não sabia e aprendi nessa aula foi a diferença entre
+software livre e software grátis.

@@ -1,0 +1,8 @@
+Para mim foi muito legal aprender mais comandos do terminal, pois apesar de já
+conhecê-lo, sabia muito pouco. Gostei muito do fato de ser explicado não somente
+o que cada comando faz, mas também o sentido da sitaxe, por exemplo. Foi muito
+interessante, para mim, descobrir o sentido do "su" vir de super user, pois já 
+havia usado "sudo" algumas vezes sem saber o porquê. Além disso, um comando que
+quero destacar aqui é o "export" que cria uma variável (como uma atalho)
+temporária e que existe a possimilidade de torná-la permanente colocando-a na
+bash com nano "~/.bashrc".  
