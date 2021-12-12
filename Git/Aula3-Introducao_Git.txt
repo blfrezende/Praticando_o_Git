@@ -1,0 +1,3 @@
+Como eu particularmente não sabia nada sobre Git, só havia ouvido falar,
+esta aula foi repleta de novidades interessantes. O principal foi entender como 
+funcionam as ramificações do Git. 

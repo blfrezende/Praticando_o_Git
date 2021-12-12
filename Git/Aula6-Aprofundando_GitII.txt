@@ -1,0 +1,3 @@
+O mais interessante nesta aula foi aprender o que é e como se fazer um "merge".
+Além disso, foi bom aprender o que fazem e as diferenças entre "git reset", 
+"git reset --hard" e "git revert".
