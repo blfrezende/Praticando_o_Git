@@ -1,0 +1,6 @@
+Destaco aqui o que mais gostei nessa aula:
+- Compilar um arquivo phyton pelo terminal;
+- Fazer um "add";
+- Finalmente fazer meu primeiro "commit";
+- Entender o que é "gitignore".
+
